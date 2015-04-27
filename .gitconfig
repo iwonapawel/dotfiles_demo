@@ -1,0 +1,7 @@
+[user]
+	name = Iwona Pawelczak
+	email = iwona.pawelczak@gmail.com
+[push]
+	default = simple
+[core]
+	editor = emacs
